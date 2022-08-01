@@ -36,12 +36,12 @@ h1{
 }
 
 .middle-container {
-  background-color: #D3E4CD;
+  background: linear-gradient(#FEF5ED,#D3E4CD);
   padding-top: 100px;
 }
 
 .bottom-container {
-  background-color: #D3E4CD
+  background-color: #D3E4CD;
 }
 
 .skill-row {
@@ -52,9 +52,7 @@ h1{
 
 }
 
-.programming-text{
 
-}
 
 .programming {
 
