@@ -11,13 +11,13 @@
 
 .top-cloud {
   position: absolute;
-  right: 31%;
+  right: 30%;
   top: 65px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 31%;
+  left: 30%;
 }
 
 body {
@@ -45,6 +45,7 @@ h1{
 
 .bottom-container {
   background-color: #D3E4CD;
+  padding-bottom: 10px;
 }
 
 .skill-row {
@@ -74,4 +75,13 @@ h1{
 
 p{
   font-family: 'Open Sans', sans-serif;
+}
+
+hr {
+
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 3px;
+    height: 3px;
+    width: 60%;
 }
